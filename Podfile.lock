@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 3d4824ee4eb638362603e49acf6fab53135c5140
+
+COCOAPODS: 1.8.4
